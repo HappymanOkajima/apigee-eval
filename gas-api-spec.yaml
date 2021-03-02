@@ -12,13 +12,13 @@ openapi: 3.0.0
 
 # This is your document metadata.
 info:
-  version: 0.0.1
+  version: 0.0.2
   title: folders API
   description: Sample Mock API 
 
 # Servers where this API is hosted
 servers: 
-  - url: http://okajima-eval-test.apigee.net/node-hosted-express
+  - url: http://okajima-eval-test.apigee.net/gas-api
 
 # Describe your paths here
 paths:
